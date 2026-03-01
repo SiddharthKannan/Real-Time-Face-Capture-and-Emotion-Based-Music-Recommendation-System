@@ -1,0 +1,4 @@
+cd /d E:\MDP\EmotionBasedMusicRecommendationSystem
+conda activate emotionbasedmusicrecommendation
+python app1.py
+Running on http://127.0.0.1:8080
